@@ -59,7 +59,6 @@ public static void main(String[] args) throws IOException {
 	default:  
 	}  
 	}  
-	System.out.println("");  
 	}  
 }
 
