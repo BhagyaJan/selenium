@@ -55,6 +55,10 @@ public static void main(String[] args) throws IOException {
            } else {
                System.out.println(cell.getNumericCellValue());
            }  
+		   
+		   
+		   
+		   
 	break;  
 	default:  
 	}  
